@@ -2,6 +2,8 @@
 
 ![Modern Beta Banner](https://i.imgur.com/9703CzG.png)
 
+**[Update 9/19/24] This project is retired, please see BlueStaggo's [Moderner Beta](https://github.com/BlueStaggo/moderner-beta). Thank you for the support!**
+
 Classic old world generation with modern vanilla features and additions like the new 1.16 Nether.
 
 ## Setup
